@@ -14,11 +14,11 @@
     },
     {
       "structure": "dungeons_arise:heavenly_rider",
-      "weight": 1
+      "weight": 0
     },
     {
       "structure": "dungeons_arise:heavenly_conqueror",
-      "weight": 1
+      "weight": 0
     },
     {
       "structure": "dungeons_arise:illager_campsite",
@@ -26,7 +26,7 @@
     },
     {
       "structure": "dungeons_arise:illager_corsair",
-      "weight": 2
+      "weight": 1
     },
     {
       "structure": "dungeons_arise:illager_fort",
@@ -34,7 +34,7 @@
     },
     {
       "structure": "dungeons_arise:illager_galley",
-      "weight": 2
+      "weight": 1
     },
     {
       "structure": "dungeons_arise:illager_windmill",
@@ -94,7 +94,7 @@
     },
     {
       "structure": "dungeons_arise:heavenly_challenger",
-      "weight": 1
+      "weight": 0
     },
     {
       "structure": "dungeons_arise:thornborn_towers",
@@ -122,7 +122,7 @@
     },
     {
       "structure": "dungeons_arise:mechanical_nest",
-      "weight": 1
+      "weight": 0
     }
   ],
   "placement": {
@@ -132,3 +132,4 @@
     "type": "minecraft:random_spread"
   }
 }
+
