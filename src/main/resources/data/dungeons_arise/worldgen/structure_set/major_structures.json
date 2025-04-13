@@ -22,7 +22,7 @@
     },
     {
       "structure": "dungeons_arise:illager_campsite",
-      "weight": 3
+      "weight": 2
     },
     {
       "structure": "dungeons_arise:illager_corsair",
@@ -42,7 +42,7 @@
     },
     {
       "structure": "dungeons_arise:merchant_campsite",
-      "weight": 3
+      "weight": 2
     },
     {
       "structure": "dungeons_arise:monastery",
@@ -66,7 +66,7 @@
     },
     {
       "structure": "dungeons_arise:small_blimp",
-      "weight": 3
+      "weight": 2
     },
     {
       "structure": "dungeons_arise:typhon",
@@ -127,8 +127,8 @@
   ],
   "placement": {
     "salt": 88371663,
-    "spacing": 60,
-    "separation": 50,
+    "spacing": 100,
+    "separation": 90,
     "type": "minecraft:random_spread"
   }
 }
